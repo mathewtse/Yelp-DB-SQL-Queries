@@ -1,6 +1,6 @@
 # Yelp-DB-SQL-Queries
 
-This is a command line program that allows you to interact with a Yelp Database
+A command line program that enables te user to interact with a Yelp Database
 Created using Python with the pyodbc module, and Microsoft SQL Server
 
 
